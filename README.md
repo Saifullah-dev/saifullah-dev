@@ -20,10 +20,5 @@
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saifullah-dev&" alt="saifullah-dev" /></p>
 
-<h3 align="left" >Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/saifullah-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saifullah-dev" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/saifullah_dev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="saifullah_dev" /></a><a href="https://ko-fi.com/saifullah_dev"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="saifullah_dev" /></a></p><br><br>
